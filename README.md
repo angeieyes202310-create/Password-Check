@@ -1,4 +1,4 @@
-# Password-Check[PswrdChck.html](https://github.com/user-attachments/files/29305592/PswrdChck.html)
+# Password-Check
 <html>
 <head>
 <link rel="stylesheet" href="PswrdChck.css">
