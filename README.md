@@ -4,9 +4,8 @@
   <link rel="stylesheet" href="PswrdChck.css">
  </head>
  <body>
-  <h1> Type your password! </h1>
-  <input type="text">
-  <hr>
-  <input type="submit">
+  <form>
+    <input type="text" placeholder="Type here!">
+  </form>
  </body>
 </html>
